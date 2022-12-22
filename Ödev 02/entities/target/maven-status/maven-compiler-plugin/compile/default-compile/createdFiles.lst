@@ -1,6 +1,0 @@
-org\webp\intro\jee\jpa\relationship\Message.class
-org\webp\intro\jee\jpa\relationship\User.class
-org\webp\intro\jee\jpa\relationship\GroupAssignment.class
-org\webp\intro\jee\jpa\relationship\AddressWithUserLink.class
-org\webp\intro\jee\jpa\relationship\Address.class
-org\webp\intro\jee\jpa\relationship\MessageWithUserLink.class
